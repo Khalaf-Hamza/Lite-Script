@@ -11,16 +11,6 @@ EduPen AI is a comprehensive educational penetration testing toolkit with AI-pow
 
 ---
 
-## ⚠️ Legal Disclaimer
-
-**IMPORTANT:** This tool is for educational and authorized security testing purposes only. Unauthorized access to computer systems is illegal. Always obtain proper authorization before testing any system you do not own.
-
-- Only use on systems you have explicit permission to test
-- Unauthorized use may violate local, state, and federal laws
-- The creators are not responsible for misuse of this tool
-
----
-
 ## 🚀 Features
 
 ### 1. Network Tools & Scanners
@@ -383,8 +373,4 @@ For educational support and questions:
 - Review the documentation carefully
 - Check troubleshooting section
 - Ensure all requirements are installed
-- Verify you have proper authorization for testing
-
----
-
-**Remember: With great power comes great responsibility. Use this tool ethically and legally.**
+Contact Me On My Email : khalaf.hamza.email@gmail.com
